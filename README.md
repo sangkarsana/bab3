@@ -1,7 +1,3 @@
-Berikut adalah teks lengkap yang bisa Anda **copy-paste langsung ke Google Docs**:
-
----
-
 # **Tahapan Pra-pemrosesan Data**
 
 Tahap **pra-pemrosesan data** merupakan langkah esensial dalam memastikan bahwa dataset yang digunakan dalam penelitian memiliki kualitas yang baik, bersih, dan siap untuk dianalisis serta digunakan dalam pengembangan model **machine learning**. Proses ini melibatkan beberapa langkah utama, yaitu **pemisahan atribut**, **konversi tipe data**, **penanganan nilai hilang**, serta **normalisasi data**.
